@@ -6,6 +6,8 @@ My thoughts for that class is that it was incredibly helpful, and is a good "Met
 
 In these notes, I tried to draw from my own personal and professional experiences to relate to the subject. In particular I tried to find analogies in the terms of computing. For example, storing memories in the brain have both a Working Memory and Long Term Memory component which obviously can obviously draw parallel to Persistent versus Random Access Memory. Of course, these analogies are not perfect. They work as placeholders and shorthand with what you are already familiar with until you gain a more nuanced understanding of the subject matter, to be eventually either updated or discarded with a better one.
 
+The class is estimated to take about 10 hours to learn, and coursera breaks it up into four week chunks.
+
 The notes are broken down as follows:
 
 1. Expectations: These are expectations or goals I tried to set for myself in the beginning of the class, to keep in mind what I wanted to get out of them.
