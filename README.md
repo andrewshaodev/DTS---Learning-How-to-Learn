@@ -1,4 +1,4 @@
-# DTS---Learning-How-to-Learn
+# DTS - Learning-How-to-Learn
 
 These are the notes for myself taken from the class ["Learning How to Learn"](https://www.coursera.org/learn/learning-how-to-learn) from Deep Teaching Solutions, from [Dr Barbra Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley)and [Dr Terrence Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski) I have switched from using One Note for any of my note taking to Juypyter notebooks, hosted on Google Colab, mainly because I realized it was a better format for taking technical notes. I could use code block examples and automatically run turning the notes into a better form of active rather than passive learning. I've also found that it is much easier doing the formatting I want using Markdown than the autoformating that Microsoft Office products use, which continues to be a mystery to me. Because this class was not techincal in nature from a coding standpoint, there is no code. After this first test run, I still feel that Juypyter is the way to go for note taking in the future.
 
